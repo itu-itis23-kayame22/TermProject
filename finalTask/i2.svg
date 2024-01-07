@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="26.458334mm"
+   height="39.6875mm"
+   viewBox="0 0 26.458334 39.6875"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed6c4, 2023-07-21)"
+   sodipodi:docname="i2.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.69219276"
+     inkscape:cx="117.74177"
+     inkscape:cy="319.99757"
+     inkscape:window-width="1920"
+     inkscape:window-height="991"
+     inkscape:window-x="-9"
+     inkscape:window-y="-9"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <rect
+       x="5.7787371"
+       y="4.3340528"
+       width="89.570425"
+       height="135.80032"
+       id="rect4" />
+    <rect
+       x="7.2234214"
+       y="143.02374"
+       width="85.236372"
+       height="137.24501"
+       id="rect3" />
+    <rect
+       x="4.3340528"
+       y="4.3340528"
+       width="89.570425"
+       height="141.57906"
+       id="rect2" />
+    <rect
+       x="278.82407"
+       y="239.8176"
+       width="221.0367"
+       height="390.06476"
+       id="rect1" />
+  </defs>
+  <g
+     inkscape:label="Layer 1"
+     inkscape:groupmode="layer"
+     id="layer1"
+     transform="translate(-73.838597,-63.826001)">
+    <text
+       xml:space="preserve"
+       transform="matrix(22.549729,0,0,11.554986,-56.720541,-3.4145459)"
+       id="text3"
+       style="font-size:5.33333px;font-family:STSong;-inkscape-font-specification:STSong;white-space:pre;shape-inside:url(#rect4);fill:#0000ff;stroke-width:0.0163911"><tspan
+         x="5.7792969"
+         y="9.2673148"
+         id="tspan1">i</tspan></text>
+  </g>
+</svg>
